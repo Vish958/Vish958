@@ -1,4 +1,4 @@
-Hi, I’m ##Vishwesh
+Hi, I’m Vishwesh
 
 - 👀 I’m interested in Data Analytics and Data Extracting.
 
