@@ -2,7 +2,7 @@ Hi, I’m Vishwesh
 
 - 👀 I’m interested in Data Analytics and Data Extracting.
 
-- 🌱 I’m currently learning SQL to enhancing my Analytics skills to gain more self experience in Analytics and Scraping.
+- 🌱 I’m currently learning SQL to enhance my Analytics skills to gain more self-experience in Analytics and Scraping.
 
 - 💞️ I’m looking to collaborate with coders and developers because they perform their work smartly and I am eager to interact with.
 
